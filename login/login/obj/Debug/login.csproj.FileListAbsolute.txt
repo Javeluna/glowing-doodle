@@ -1,0 +1,13 @@
+E:\School\Engkong\Login\login\obj\Debug\login.csproj.AssemblyReference.cache
+E:\School\Engkong\Login\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+E:\School\Engkong\Login\login\obj\Debug\login.Borrowers.resources
+E:\School\Engkong\Login\login\obj\Debug\login.Borrow.resources
+E:\School\Engkong\Login\login\obj\Debug\login.Login.resources
+E:\School\Engkong\Login\login\obj\Debug\login.csproj.GenerateResource.cache
+E:\School\Engkong\Login\login\obj\Debug\login.Properties.Resources.resources
+E:\School\Engkong\Login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+E:\School\Engkong\Login\login\bin\Debug\login.exe.config
+E:\School\Engkong\Login\login\bin\Debug\login.exe
+E:\School\Engkong\Login\login\bin\Debug\login.pdb
+E:\School\Engkong\Login\login\obj\Debug\login.exe
+E:\School\Engkong\Login\login\obj\Debug\login.pdb
